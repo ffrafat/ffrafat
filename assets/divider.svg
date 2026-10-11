@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="12" viewBox="0 0 1200 12">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FF6B9D" stop-opacity="0"/>
+      <stop offset=".2" stop-color="#FF6B9D"/>
+      <stop offset=".5" stop-color="#C06CFF"/>
+      <stop offset=".8" stop-color="#4FACFE"/>
+      <stop offset="1" stop-color="#4FACFE" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#ffffff" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="5" width="1200" height="2" rx="1" fill="url(#g)"/>
+  <rect x="-200" y="4" width="200" height="4" rx="2" fill="url(#shine)">
+    <animate attributeName="x" values="-200;1200" dur="4s" repeatCount="indefinite"/>
+  </rect>
+  <circle cx="600" cy="6" r="4" fill="#C06CFF"/>
+  <circle cx="600" cy="6" r="4" fill="none" stroke="#C06CFF">
+    <animate attributeName="r" values="4;10" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0" dur="2s" repeatCount="indefinite"/>
+  </circle>
+</svg>

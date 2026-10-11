@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://rafat.cc"><img src="https://img.shields.io/badge/Website-rafat.cc-0f2027?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Based%20in-Dhaka%2C%20Bangladesh-2c5364?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=ffrafat&style=for-the-badge&color=203a43&label=Profile+views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ffrafat.ffrafat&left_text=Profile%20views&left_color=%230f2027&right_color=%232c5364" />
 </p>
 
 ---

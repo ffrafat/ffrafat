@@ -77,12 +77,12 @@ const faisal = {
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ffrafat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffrafat&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180" src="assets/stats.svg" alt="GitHub stats" />
+  <img height="180" src="assets/languages.svg" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ffrafat&theme=tokyonight&hide_border=true" />
+  <img width="600" src="assets/streak.svg" alt="Contribution streak" />
 </p>
 
 <p align="center">
